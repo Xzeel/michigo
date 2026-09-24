@@ -23,11 +23,6 @@ Japanese Language Learning App: Levels N5–N1. 🌸📚
   <img src="assets/2.jpg" width="30%">
   <img src="assets/3.jpg" width="30%">
 </p>
-<p align="center">
-  <img src="assets/4.jpg" width="30%">
-  <img src="assets/5.jpg" width="30%">
-  <img src="assets/6.jpg" width="30%">
-</p>
 
 ---
 
