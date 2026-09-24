@@ -1,4 +1,4 @@
-![MichiGo](https://github.com/Xzeel/lumiww/blob/main/assets/lumiww-banner.png?raw=true)
+![MichiGo](https://github.com/Xzeel/michigo/blob/main/assets/michigo-banner.png?raw=true)
 
 <div align="center">
 
